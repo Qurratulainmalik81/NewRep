@@ -9,6 +9,7 @@ public class Lab1 {
         number = in.nextInt();
 
         if(number==0)
+        zxcvxcvxc
         System.out.println("Zero");
         else if(number==1)
         System.out.println("One");
@@ -30,5 +31,6 @@ public class Lab1 {
         System.out.println("Nine");
         else 
         System.out.println("not a valid number");
+        dgdfsdgdfgdfg
     }
 }
